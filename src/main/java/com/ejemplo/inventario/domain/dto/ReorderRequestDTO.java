@@ -1,4 +1,4 @@
-package main.java.com.ejemplo.inventario.domain.dto;
+package com.ejemplo.inventario.domain.dto;
 
 public class ReorderRequestDTO {
     private Long productId;

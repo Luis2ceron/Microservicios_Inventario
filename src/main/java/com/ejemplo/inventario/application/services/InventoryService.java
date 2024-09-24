@@ -1,6 +1,4 @@
- import com.ejemplo.inventario.domain.dto.ProductStock;
-import com.ejemplo.inventario.domain.dto.ReorderRequest;
-import com.ejemplo.inventario.domain.repository.ProductStockRepository;
+ import com.ejemplo.inventario.domain.repository.ProductStockRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
