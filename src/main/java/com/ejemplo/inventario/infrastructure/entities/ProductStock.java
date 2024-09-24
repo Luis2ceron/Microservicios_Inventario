@@ -9,6 +9,7 @@ public class ProductStock {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "product_id")
     private Long productId;
+    
 
     @Column(name = "stock", nullable = false)
     private Integer stock;
